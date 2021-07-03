@@ -1,8 +1,6 @@
 # prot-rna-umap-clustering
 Joint UMAP embedding and clustering of proteomic and transcriptomic data.
 
-Developed by Egor Vorontsov with educational purposes.
-
 The notebook was created in Jupyter Lab on Windows running Python 3.8. The workflow depends on third-party libraries that can be installed via pip:<br>
 pip install scipy numpy pandas matplotlib seaborn scikit-learn umap-learn.
   
